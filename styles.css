@@ -286,11 +286,11 @@ body {
 }
 
 .thurber-popup {
-    margin: -27vh 0 0 -15.3vw;
+    margin: -27vh 0 0 -17vw;
 }
 
 .lister-popup {
-    margin: -5vh 0 0 15.3vw;
+    margin: -5vh 0 0 17vw;
 }
 
 .volta-popup {
@@ -298,7 +298,7 @@ body {
 }
 
 .niepce-popup {
-    margin: 10vh 0 0 -15.3vw;
+    margin: 10vh 0 0 -17vw;
     /* height:130vh */
 }
 
